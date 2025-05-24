@@ -1,0 +1,6 @@
+artifact_location: file:C:\Users\andre\Documents\GitHub(local)\PRODUCTOS DE DATOS\PRE-08-mlflow-tracking-local-MarioPinedaL\my_mlruns/606606094735457897
+creation_time: 1748100521246
+experiment_id: '606606094735457897'
+last_update_time: 1748100521246
+lifecycle_stage: active
+name: wine_quality_experiment
